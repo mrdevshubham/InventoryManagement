@@ -1,5 +1,6 @@
 USE [InventoryManagement]
 
+
 CREATE TABLE [ProductCategory]
 (
 	ID BIGINT NOT NULL PRIMARY KEY IDENTITY(101,1),
